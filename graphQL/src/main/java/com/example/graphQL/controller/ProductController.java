@@ -10,7 +10,7 @@ import org.springframework.stereotype.Controller;
 
 import com.example.graphQL.entity.Product;
 import com.example.graphQL.service.ProductService;
-
+//GraphQL Controller
 @Controller
 public class ProductController {
 	@Autowired
